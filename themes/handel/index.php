@@ -7,6 +7,5 @@
 	<title>Handle</title>
 </head>
 <body>
-	<?= phpinfo()?>
 </body>
 </html>
